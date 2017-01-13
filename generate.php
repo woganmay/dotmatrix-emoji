@@ -5,7 +5,7 @@
 
 $string = "Aww yeah :partyparrot:";
 
-$slack = array_map(function($c){
+$slack = implode(null, array_map(function($c){
     
     $token = null;
     
@@ -27,11 +27,11 @@ $slack = array_map(function($c){
         case '/': $token = 'led-slash'; break;
         case '=': $token = 'led-equal'; break;
         case ' ': $token = 'led-space'; break;
-        default: $token = 'led-' . strtolower($c); break;
+        default:  $token = 'led-' . strtolower($c); break;
     }
     
     return ":$token:";
     
-}, str_split($string));
+}, str_split($string)));
 
-echo implode(null, $slack);
+echo $slack;
