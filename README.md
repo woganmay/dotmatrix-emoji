@@ -1,5 +1,7 @@
 # dotmatrix-emoji
 
+<center>![](https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/sample.png)</center>
+
 A collection of emoji based on the free Dot Matrix font: http://www.dafont.com/dot-matrix.font
 
 This repo includes a yaml file (dotmatrix.yaml) that's compatible with emojipacks: https://github.com/lambtron/emojipacks
@@ -8,7 +10,7 @@ This repo includes a yaml file (dotmatrix.yaml) that's compatible with emojipack
 
     $string = "Aww yeah :partyparrot:";
     
-    $slack = implode(null, array_map(function($c){
+    echo implode(null, array_map(function($c){
         
         $token = null;
         
@@ -36,8 +38,6 @@ This repo includes a yaml file (dotmatrix.yaml) that's compatible with emojipack
         return ":$token:";
         
     }, str_split($string)));
-    
-    echo $slack;
 
 # License
 
