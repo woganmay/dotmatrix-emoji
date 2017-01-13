@@ -1,0 +1,106 @@
+title: dotmatrix
+emojis:
+  - name: led-0
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/0.png
+  - name: led-1
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/1.png
+  - name: led-2
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/2.png
+  - name: led-3
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/3.png
+  - name: led-4
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/4.png
+  - name: led-5
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/5.png
+  - name: led-6
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/6.png
+  - name: led-7
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/7.png
+  - name: led-8
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/8.png
+  - name: led-9
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/9.png
+  - name: led-a
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/a.png
+  - name: led-b
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/b.png
+  - name: led-c
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/c.png
+  - name: led-d
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/d.png
+  - name: led-e
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/e.png
+  - name: led-f
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/f.png
+  - name: led-g
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/g.png
+  - name: led-h
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/h.png
+  - name: led-i
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/i.png
+  - name: led-j
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/j.png
+  - name: led-k
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/k.png
+  - name: led-l
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/l.png
+  - name: led-m
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/m.png
+  - name: led-n
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/n.png
+  - name: led-o
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/o.png
+  - name: led-p
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/p.png
+  - name: led-q
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/q.png
+  - name: led-r
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/r.png
+  - name: led-s
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/s.png
+  - name: led-t
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/t.png
+  - name: led-u
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/u.png
+  - name: led-v
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/v.png
+  - name: led-w
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/w.png
+  - name: led-x
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/x.png
+  - name: led-y
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/y.png
+  - name: led-z
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/z.png
+  - name: led-colon
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/colon.png
+  - name: led-comma
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/comma.png
+  - name: led-dash
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/dash.png
+  - name: led-equal
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/equal.png
+  - name: led-excl
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/excl.png
+  - name: led-lparen
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/lparen.png
+  - name: led-lsquo
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/lsquo.png
+  - name: led-period
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/period.png
+  - name: led-plus
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/plus.png
+  - name: led-ques
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/ques.png
+  - name: led-quot
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/quot.png
+  - name: led-rparen
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/rparen.png
+  - name: led-scolon
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/scolon.png
+  - name: led-slash
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/slash.png
+  - name: led-star
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/star.png
+  - name: led-space
+    src: https://raw.githubusercontent.com/woganmay/dotmatrix-emoji/master/emoji/space.png
